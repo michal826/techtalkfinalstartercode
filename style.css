@@ -1,0 +1,35 @@
+#img {
+    padding:320px;
+    height:200px;
+    width:600px;
+}
+#red {
+color:red;
+}
+#games {
+    color:blue ;
+}
+.green{
+color:green;    
+}
+h1 {
+text-align:center;
+border:dotted green;
+}
+#buttons{
+border:10px black;     
+padding:50px;
+background-color:yellow;
+font-size:20px;
+
+}
+#fix {
+font-style:italic;
+color:blue;
+}
+body{
+background-color:aqua;
+}
+#buttons {
+    float:right;
+}
